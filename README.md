@@ -1,4 +1,4 @@
-### OIII SoU o Guilherme Pereira 
+### Oiii Sou o Guilherme Pereira 
 
 - 🔭 Hoje trabalho como Front-end
 - 🌱 Estudando NextJs
