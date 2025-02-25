@@ -3,7 +3,6 @@
 - 🔭 Hoje trabalho como Front-end
 - 🌱 Estudando NextJs
 - 📫 Entre em contato : gfranciscosilvapereira@gmail.com
-- 😄 Pronouns: Ele/Dele
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
